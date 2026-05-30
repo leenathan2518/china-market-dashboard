@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+streamlit
+pandas
+numpy
+plotly
+akshare
+duckdb
+scikit-learn
+statsmodels
+openpyxl
+baostock
